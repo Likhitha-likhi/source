@@ -1,0 +1,19 @@
+{
+"career":{
+"info":  "To pursue a challenging career."
+},
+"education":[
+  {
+    "degree":"ssc",
+    "school":"seshu",
+    "data":["2013","90%"]
+  },{
+    "degree":"Intermediate",
+    "school":"Narayana junior college",
+    "data":["2015","96%"]
+  },{
+    "degree":"Graduation",
+    "school":"sree vidyanikethan",
+    "data":["2019","85%"]
+  }
+  ]}
