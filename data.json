@@ -16,4 +16,26 @@
     "school":"sree vidyanikethan",
     "data":["2019","85%"]
   }
+  ],
+"skills":[
+  {
+    "name":"operating system",
+    "info":["Windows","Linux","Fedora","Ubuntu"]
+  },
+  {
+      "name":"Languages",
+      "info":["c","Data Structures","c++","Core Java","python"]
+  },
+  {
+    "name":"Databases",
+    "info":["Oracle","MySql","cybase"]
+  },
+  {
+    "name":"Web Technologies",
+    "info":["Html","CSS","javascript"]
+  },
+    {
+      "name":"Frameworks",
+      "info":["Bootstrap",".net"]
+    }
   ]}

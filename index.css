@@ -39,6 +39,17 @@ h1,#roll{
 a{
   text-decoration: none;
 }
+td{
+  padding:2%
+}
+tr:nth-child(odd)
+{
+  background-color:gray;
+}
+tr:nth-child(even)
+{
+  background-color:skyBlue;
+}
 @media only screen and (min-width:320px) and (max-width:480px){
 .flex-parent{
 display: flex;
